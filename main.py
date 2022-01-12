@@ -13,6 +13,6 @@ if __name__ == '__main__':
             timeout=30
         )
 
-        time.sleep(3 * 60)
+        time.sleep(60 * 60)
         run += 1
 
